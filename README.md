@@ -1,6 +1,6 @@
 # facebook-clone
 
-Overview of the Application 
+Overview of the Application  
 This Facebook Clone is a web application that mimics core features of Facebook, such as displaying user posts, profiles, and other social interactions. It uses Next.js for the frontend and Spring Boot for the backend, communicating via RESTful API endpoints.
 
 Frontend (Next.js)
